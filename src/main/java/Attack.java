@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Attack {
+public interface Attack {
+    AttackType getAttackType();
 }

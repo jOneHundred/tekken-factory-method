@@ -1,2 +1,3 @@
-public interface Fraction {
+public interface Character {
+    Attack attack(AttackType attackType);
 }
